@@ -1,3 +1,0 @@
-admin@shop.ru - admin123
-ivan@mail.ru - user123 - вип
-maria@mail.ru - user123 - обычный пользователь
