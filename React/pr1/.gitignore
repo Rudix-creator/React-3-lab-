@@ -19,6 +19,17 @@ dist-ssr
 пользователи.txt
 *.txt
 
+server.js
+backend/server.js
+
+schema.sql
+backend/schema.sql
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
